@@ -1,3 +1,10 @@
+## Ecommerce application
+This is an unfinished ecommerce application that is being worked upon.
+It does support the features of:
+1. Adding to a cart.
+2. Removing from the cart.
+3. Dynamically changing the price based on the items in the cart.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
